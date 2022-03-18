@@ -1,2 +1,1 @@
-#Mass Notify Zone-H
-##How To Change With Your Nickname
+<h1 align="center">Mass Notify Zone-H</a>!</h1>
