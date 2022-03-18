@@ -2,4 +2,4 @@
 
 ### Disclaimer
 #### Change This Part With Your Nickname
-<img src="Change This.png"></img>
+<img src="Change This.jpg"></img>
