@@ -1,6 +1,4 @@
-<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-SARA-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
-<img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/overview.jpg">
-SARA - Simple Android Ransomware Attack
+
 
 ### Disclaimer
 The author is not responsible for any issues or damage caused by this program.
